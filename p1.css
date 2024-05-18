@@ -1,0 +1,198 @@
+*{
+    margin: 0px;
+
+}
+.header{
+    height: 10vh;
+    padding: 20px;
+    background-color: black;
+    padding-left: 120px;
+    padding-right: 100px;
+}
+.body{
+    margin: 20px;
+    background-color: rgb(246, 246, 246);
+    margin-top: 0;
+    height: 90vh;
+}
+.img{
+    background-color: black;
+    width:  300px;
+    height: 50px;
+}
+.links{
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: white;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.a{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    border: 0;
+    font-weight:600;
+    font-size: 18px;
+}
+.d{
+    background-color: black;
+    color: white;
+    border: 0;
+    font-weight:500;
+    font-size: 18px;
+
+}
+.b{
+    border: 0;
+    height: 18px;
+    font-weight: bolder;
+    font-size: large;
+    width: 25px;
+    background-color: white;
+    
+}
+.line{
+    height: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(221, 221, 222);
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.p1{
+    display: flex;
+    flex-direction: row;
+}
+.bolt{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(221, 221, 222);
+    background: 0;
+}
+.break{
+    font-weight: 600;
+    width: 200px;
+    margin-left: 5px;
+}
+.lorem{
+    font-weight: 400;
+    color: grey;
+}
+.p2{
+    display: flex;
+    flex-direction: row;
+}
+.weather{
+    background-color: rgb(221, 221, 222);
+}
+.bd{
+    display: flex;
+    flex-direction: row;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    flex: 2;
+    margin-right: 100px;
+}
+.secondary{
+    flex: 1;
+}
+.main1{
+    display: flex;
+    flex-direction: row;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.pic1{
+    height: 454px;
+    width: 420px;
+    margin-right: 20px;
+}
+.pic2{
+    height: 454px;
+    margin-right: 20px;
+}
+.pic3{
+margin-bottom: 10px;
+}
+.lp{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+.latest{
+    width: 150px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    border:0;
+}
+.popular{
+    width: 150px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: white;
+    border:0;
+}
+.headline{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.he1{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.he2{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.he3{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.i6{
+    margin-right: 10px;
+}
+.con2{
+    display: flex;
+    flex-direction: column;
+}
+.con{
+    display: flex;
+    width: 208px;
+    height: 50px;
+    letter-spacing: 2px;
+    line-height: 20px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+.calender{
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
+.cal{
+    display: flex;
+    flex-direction: row;
+}
